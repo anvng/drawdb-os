@@ -45,6 +45,9 @@ docker run -p 3000:80 drawdb
 
 Set up the [server](https://github.com/drawdb-io/drawdb-server) and environment variables according to `.env.sample` for the survey and bug report forms.
 
+-------------
+
 ```html
- This is an open source project, thanks to the author. Source [link here](https://github.com/drawdb-io/drawdb)
+ This is an open source project, thanks to the author!
 ```
+Source [link here](https://github.com/drawdb-io/drawdb)
